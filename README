@@ -1,2 +1,18 @@
 這是我用來練習Python的100天挑戰
 主要使用Udemy的100 Days of Code: The Complete Python Pro Bootcamp 課程做教材
+
+此教材在Udemy上
+https://www.udemy.com/course/100-days-of-code/
+
+我會以每天一章的進度寫下我的CODE
+
+Day1: print，input，函數和String數據類別
+    len():string轉數字函數
+
+Day2:基本數據類型integer，Float，Boolean，String
+    input() : 
+    int() :
+    float() :
+    string() :
+    print(f"{x}") :
+Day3 :邏輯迴圈 if/elif/else，
